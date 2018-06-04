@@ -1,0 +1,6 @@
+site_name: Product Docs
+docs_dir: ProductDocs/docs
+pages:
+- Introduction: index.md
+- Installation: install.md
+- Créer une présentation: creer.md
