@@ -3,3 +3,5 @@ pages:
     - 'Introduction': 'index.md'
     - 'Installation': 'installation.md'
     - 'Créer une présentation': 'creer.md'
+theme:
+  name: 'material'
