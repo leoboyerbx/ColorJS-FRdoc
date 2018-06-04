@@ -22,4 +22,4 @@ Si vous voulez qu'un élément apparaisse seulement à un moment précis, vous p
 
 ## Comment utiliser ColorJS
 ### Créer le diaporama
-Tout est détaillé sur [la documentation](https://colorjs.readthedocs.io/en/latest/)
+Tout est détaillé sur [la documentation](https://colorjs.readthedocs.io/fr/latest/)
