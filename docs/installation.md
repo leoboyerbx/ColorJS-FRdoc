@@ -8,3 +8,6 @@ Le dépôt contient déjà toutes les dépendances. Vous pouvez modifier tous le
 
 `index.html`: le contenu de votre présentation <br>
 `css/user.css`: le fichier CSS destiné à être modifié par l'utilisateur pour personnaliser sa présentation.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjAyMDY3MDMwM119
+-->
