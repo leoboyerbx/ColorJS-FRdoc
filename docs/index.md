@@ -24,3 +24,6 @@ Si vous voulez qu'un élément apparaisse seulement à un moment précis, vous p
 - Installer ColorJS
 - Créer une présentation
 - Présenter votre travail
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc3MjMwNzYyXX0=
+-->
