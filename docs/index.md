@@ -21,9 +21,9 @@ Now if you want an element to appear only when you want, you can add the attribu
 Si vous voulez qu'un élément apparaisse seulement à un moment précis, vous pouvez lui ajouter l'attribut `animate`
 
 ## Sommaire de la documentation
-- [Installer ColorJS](./installation)
-- [Créer une présentation](./creer)
-- [Présenter votre travail](./presenter)
+- [Installer ColorJS](https://colorjs.readthedocs.io/fr/latest/installation/)
+- [Créer une présentation](https://colorjs.readthedocs.io/fr/latest/creer)
+- [Présenter votre travail](https://colorjs.readthedocs.io/fr/latest/presenter)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMDY3ODY4NV19
+eyJoaXN0b3J5IjpbMTA1OTE4ODA1NCwxODAwNjc4Njg1XX0=
 -->
