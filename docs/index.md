@@ -24,3 +24,6 @@ Si vous voulez qu'un élément apparaisse seulement à un moment précis, vous p
 - [Installer ColorJS](./installation)
 - [Créer une présentation](./creer)
 - [Présenter votre travail](./presenter)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTgwMDY3ODY4NV19
+-->
