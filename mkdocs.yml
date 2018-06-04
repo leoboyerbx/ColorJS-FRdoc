@@ -4,4 +4,4 @@ pages:
     - 'Installation': 'installation.md'
     - 'Créer une présentation': 'creer.md'
 theme:
-  name: 'material'
+  name: 'mkdocs'
