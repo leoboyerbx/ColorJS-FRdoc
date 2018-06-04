@@ -16,8 +16,6 @@ Par exemple, si vous avez simplement 3 `div`avec la classe `slide` (des diaposit
 
 Pour laisser un maximum de flexibilité, le script ajout la classe `current` à la slide en cours et la classe `prev`à toutes les slides déjà passées. Ainsi vous pouvez choisir sur quelles propriétés CSS les changements s'appliquent.
 
-Now if you want an element to appear only when you want, you can add the attribute `animate=1` for example, and the script will make this element appear at the first click after the begenning of the slide.
-
 Si vous voulez qu'un élément apparaisse seulement à un moment précis, vous pouvez lui ajouter l'attribut `animate`
 
 ## Sommaire de la documentation
@@ -25,5 +23,5 @@ Si vous voulez qu'un élément apparaisse seulement à un moment précis, vous p
 - [Créer une présentation](https://colorjs.readthedocs.io/fr/latest/creer)
 - [Présenter votre travail](https://colorjs.readthedocs.io/fr/latest/presenter)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1OTE4ODA1NF19
+eyJoaXN0b3J5IjpbLTk3MTk1MTM2LDEwNTkxODgwNTRdfQ==
 -->
