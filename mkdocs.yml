@@ -1,4 +1,4 @@
-site_name: ColorJS Documentation en français
+site_name: ColorJS
 pages:
     - 'Introduction': 'index.md'
     - 'Installation': 'installation.md'
