@@ -1,6 +1,6 @@
 site_name: ColorJS Documentation en français
-docs_dir: ./
+docs_dir: docs/
 pages:
-- Introduction: index.md
-- Installation: install.md
-- Créer une présentation: creer.md
+    - Introduction: index.md
+    - Installation: installation.md
+    - Créer une présentation: creer.md
