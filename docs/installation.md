@@ -78,12 +78,12 @@ Vous êtes prêt à créer votre diaporama !
 
 Si vous ne savez pas quelle méthode utiliser (CDN or not CDN ?), voici un tableau qui récapitule les avantages et inconvénients de chaque méthode:
 
-| Méthode                                                         | Téléchargement     | CDN                |
-| --------------------------------------------------------------- |:------------------:|:------------------:|
-| Nombre de lignes de code à ajouter dans votre fichier           | 1                  | 1                  |
-| Ne nécessite pas d'autres fichiers que votre diaporama lui-même | :x:                | :heavy_check_mark: |
-| Est utilisable sans connexion internet                          | :heavy_check_mark: | :x:                |
-| Est rapide                                                      | :heavy_check_mark: | :grey_exclamation: |
-| Se met à jour automatiquement                                   | :x:                | :heavy_check_mark: |
+| Méthode                                                         | Téléchargement | CDN       |
+| --------------------------------------------------------------- |:--------------:|:---------:|
+| Nombre de lignes de code à ajouter dans votre fichier           | 1              | 1         |
+| Ne nécessite pas d'autres fichiers que votre diaporama lui-même | **Non**        | **Oui**   |
+| Est utilisable sans connexion internet                          | **Oui**        | **Non**   |
+| Est rapide                                                      | **Oui**        | **Moins** |
+| Se met à jour automatiquement                                   | **Non**        | **Oui**   |
 
 

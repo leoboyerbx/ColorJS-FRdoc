@@ -1,8 +1,40 @@
 # Créer une présentation
-La manière la plus simple de créer une présentation est (pour le moment) de modifier directement le fichier `index.html`. En effet il contient déjà la structure nécessaire au bon fonctionnement de ColorJS.
-> Dans le cheminement du développement, il est prévu de séparer le contenu du diaporama de la structure même de ColorJS mais pour le moment ce n'est pas le cas.
 
-Vous pouvez également modifier `css/user.css` pour y ajouter vos propres styles.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDkyNzI0MDgsMTExNjY5MjY1XX0=
--->
+Quelle que soit la méthode d'installation choisie, vous devriez avoir un fichier HTML qui ressemble à ça:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Titre de mon diaporama</title>
+</head>
+<body>
+    <div id="cjs-slider">
+
+    </div>
+
+    <script src="./chemin_vers_le_script.js"></script>
+</body>
+</html>
+```
+
+## Créer une slide
+
+Une slide est un `div` avec la classe `cjs-slide`. Pour créer une slide on écrit donc:
+
+```html
+<div class="cjs-slide">
+	<!-- Ici le contenu de la slide -->
+</div>
+```
+
+Vous pouver déjà assigner une couleur d'arrière plan à votre slide en utilisant CSS, soit dans un fichier séparé, soit directement sur la balise:
+
+```html
+<div class="cjs-slide" style="background-color: #f00">
+	Ma première slide
+</div>
+```
+
+Vous pouvez ajouter une slide supplémentaire et 
