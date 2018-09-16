@@ -2,7 +2,7 @@
 
 L'installation est très simple: en effet ColorJS s'éxécute coté client. Il n'est pas nécessaire d'installer un serveur. Téléchargez simplement la dernière version sur [le dépôt officiel](https://github.com/leoboyerbx/colorjs). Il es recommandé de prendre la dernière version publiée (dans *releases*) plutôt que l'état de la branche `master` qui peut présenter des bugs.
 
-> Il existe 2 façons d'installer ColorJS. Pour savoir laquelle utiliser, voir [lien ici](#)
+> Il existe 2 façons d'installer ColorJS. Pour savoir laquelle utiliser, voir [ici](#choisir-la-methode-a-utiliser)
 
 ## Via une archive téléchargée
 
