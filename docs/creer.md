@@ -43,7 +43,8 @@ Vous pouvez ajouter une slide supplémentaire afin de voir les transitions:
 	Ma deuxième slide
 </div>
 ```
-
+Il faut maintenant ajouter les propriétés de transitions, sinon le système ne fonctionnera pas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTcyMjM1OCwtNDgxOTA4NDQ0XX0=
+eyJoaXN0b3J5IjpbLTQ1NTA1MzUyNiwxODE1NzIyMzU4LC00OD
+E5MDg0NDRdfQ==
 -->
