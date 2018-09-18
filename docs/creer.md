@@ -37,4 +37,13 @@ Vous pouver déjà assigner une couleur d'arrière plan à votre slide en utilis
 </div>
 ```
 
-Vous pouvez ajouter une slide supplémentaire et 
+Vous pouvez ajouter une slide supplémentaire afin de voir les transitions:
+```html
+<div class="cjs-slide" style="background-color: #f00">
+	Ma deuxième slide
+</div>
+```
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ4MTkwODQ0NF19
+-->
