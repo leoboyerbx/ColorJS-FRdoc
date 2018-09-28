@@ -20,4 +20,4 @@ Si vous voulez qu'un élément apparaisse seulement à un moment précis, vous p
 
 - [Installer ColorJS](https://colorjs.readthedocs.io/fr/latest/installation/)
 - [Créer une présentation](https://colorjs.readthedocs.io/fr/latest/creer)
-- [Présenter votre travail](https://colorjs.readthedocs.io/fr/latest/presenter)
+- [Présenter votre travail](https://colorjs.readthedocs.io/fr/latest/presentation)
