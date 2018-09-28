@@ -25,7 +25,7 @@ Une slide est un `div` avec la classe `cjs-slide`. Pour créer une slide on écr
 
 ```html
 <div class="cjs-slide">
-	<!-- Ici le contenu de la slide -->
+    <!-- Ici le contenu de la slide -->
 </div>
 ```
 
@@ -33,7 +33,7 @@ Vous pouver déjà assigner une couleur d'arrière plan à votre slide en utilis
 
 ```html
 <div class="cjs-slide" style="background-color: #f00">
-	Ma première slide
+    Ma première slide
 </div>
 ```
 
