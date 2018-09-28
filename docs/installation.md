@@ -38,12 +38,12 @@ Pour l'utiliser, partez d'un fichier HTML5 standard, par exemple:
     <title>Titre de mon diaporama</title>
 </head>
 <body>
-    
+
 </body>
 </html>
 ```
 
-Dans le body, créez un `div` qui a l'id `cjs-slider`. C'est le **Slider**, l'élément qui contient toutes vos *slides* (diapos).
+Dans le body, créez un `div` qui a l'id `cjs-slider`. C'est le **Slider**, l'élément qui contiendra toutes vos *slides* (diapos).
 
 Enfin juste avant la balise `</body>`, ajoutez la ligne de code:
 
@@ -85,5 +85,3 @@ Si vous ne savez pas quelle méthode utiliser (CDN or not CDN ?), voici un table
 | Est utilisable sans connexion internet                          | **Oui**        | **Non**   |
 | Est rapide                                                      | **Oui**        | **Moins** |
 | Se met à jour automatiquement                                   | **Non**        | **Oui**   |
-
-

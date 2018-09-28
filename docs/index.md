@@ -4,10 +4,6 @@ Une simple librairie pour créer des diaporamas en HTML/CSS
 
 ColorJS est une librairie JS que vous pouvez utiliser pour créer des diaporamas animés, simplement en tapant du HTML et du CSS. La librairie se charge d'accélérer le processus de création.
 
-> Merci de noter que le projet en est à ses balbutiements et que je ne suis pas un professionnel (je suis étudiant). Il reste donc des erreurs et de nombreuses fonctions sont manquantes.
-> 
-> Cependant la librairie est déjà utilisable et fonctionne pour un usage simple ! Je l'ai utilisée pour tous mes diaporamas nécessaires à certaines épreuves du Bac.
-
 ## Comment ça fonctionne
 
 ColorJS se charge d'importer les styles nécessaires pour la mise en page du diaporama. Ensuite il fait correspondre des actions clavier à des ajouts/suppressions de classes pour faire progresser l'animation.
