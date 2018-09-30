@@ -5,4 +5,4 @@ pages:
     - 'Créer une présentation': 'creer.md'
     - 'Présenter votre travail': 'presentation.md'
 theme:
-  name: 'mkdocs'
+  name: 'readthedocs'
