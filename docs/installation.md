@@ -12,13 +12,17 @@ La première méthode est de télécharger l'archive indiquée plus haut.
 
 Vous obtenez dans l'archive 3 fichiers et 2 dossiers:
 
-- `example.html`: Un diaporama d'exemple déjà créé. vous pouvez l'ouvrir pour voir à quoi ressemble un diaporama déjà existant. Il est facultatif et vous pouvez le supprimer.
+- `example.html`: Un diaporama d'exemple déjà créée dépôt.
+
+## Fichiers téléchargés
+Le dépôt contient déjà toutes les dépendances. vVous pouvez l'ouvrir pour voir à quoi ressemble un diaporama déjà existant. Il est facultatif et vous pouvez le supprimer.
 
 - `index.html`: Un fichier HTML avec les éléments de base pour commencer la création de votre diaporama.
 
 - `force-ratio.html`:  Une page qui permet d'afficher le diaporama contenu dans `index.html`, mais en conservant le ratio d'aspect 16:9 (modifiable)
 
-- `dist`: ce dossier contient `bundle.js`, le script en lui-même. Vous pouvez déplacer ce fichier mais n'oubliez pas dans ce cas de mettre à jour le chemin vers `bundle.js` dans `index.html`.
+- `dist`: ce dossier contient `bundle.js`, le script en lui-même. Vous pouvez déplacer ce fichier mais n'oubliez pas dans ce cas de mettre à jour le chemin vers `bundle.js` dansmodifier tous les fichiers, mais ceux qui sont prévus pour une modification sont les suivants:
+- `index.html`.
 
 - `assets`: Ce dossier contient des feilles de style et la bobliothèque fontawesome ui sont nécessaires au fonctionnement du script. Il ne faut pas déplacer ce dossier et son contenu par rapport à `index.html`, sinon le script ne fonctionnera plus.
 
@@ -84,4 +88,10 @@ Si vous ne savez pas quelle méthode utiliser (CDN or not CDN ?), voici un table
 | Ne nécessite pas d'autres fichiers que votre diaporama lui-même | **Non**        | **Oui**   |
 | Est utilisable sans connexion internet                          | **Oui**        | **Non**   |
 | Est rapide                                                      | **Oui**        | **Moins** |
-| Se met à jour automatiquement                                   | **Non**        | **Oui**   |
+| Se met à jour automatiquement                                   | **Non**        | **Oui**   |css/user.css`
+
+`index.html`: le contenu de votre présentation <br>
+`css/user.css`: le fichier CSS destiné à être modifié par l'utilisateur pour personnaliser sa présentation.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTgwNzg1NzEzMF19
+-->
